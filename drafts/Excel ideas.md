@@ -4,8 +4,9 @@ Help people learn core functions and ideas in Excel to improve their ability to 
 
 ## Functions
 VLOOKUP
-SUMIF
+SUMIF, COUNTIF, AVERAGEIF
 CONCATENATE
+Creating arrays
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODg2MjYxNl19
+eyJoaXN0b3J5IjpbLTIxMTUxNjA3NjldfQ==
 -->
