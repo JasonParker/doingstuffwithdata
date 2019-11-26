@@ -2,7 +2,7 @@
 
 The purpose of this site is pretty straightforward: to help you do stuff with data.
 
-Data is quickly becoming a ke
+Data is quickly becoming a key medium of communication and center of knowledge in the 21st century. Most people, unfortunately, have very limited skills to make use of the copious data available in most industries. Schools have focused on reading, writing, and arithmetic, but have largely left people ill-equipped to wrangle and derive insight from data of an
 
 # Files
 
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzY5MDM0Nl19
+eyJoaXN0b3J5IjpbMTY4ODQ3NjA4Nl19
 -->
