@@ -8,7 +8,11 @@
 
 **What would it take**: 
 4. Training data: Images from [WeRateDogs]([https://twitter.com/dog_rates](https://twitter.com/dog_rates))
-5. 
+5. Discussion of deep learning + neural nets
+6. Lots and lots of Python
+7. Deployment on OpenShift or something similar
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg4Nzk3OTNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDY0OTM1MV19
 -->
