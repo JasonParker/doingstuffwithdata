@@ -2,19 +2,22 @@
 **Idea**: Create a deep learning algorithm that can generate a WeRateDogs-style comment + rating when given an image of a good dog (they're all good dogs, Brent).
 
 **Why**:
-1. It would be cool.
-2. It would be a great way to walk through a lot of different ideas, concepts, and technologies while building an end-to-end example of something.
-3. Maybe [Matt](https://twitter.com/dogfather)becomes my friend.
+ - It would be cool.
+ - It would be a great way to walk through a lot of different ideas, concepts, and technologies while building an end-to-end example of something.
+ - Maybe [Matt](https://twitter.com/dogfather) becomes my friend.
 
 **What would it take**: 
-4. Training data: Images from [WeRateDogs]([https://twitter.com/dog_rates](https://twitter.com/dog_rates))
-5. Discussion of deep learning + neural nets
-6. Transfer learning
-7. [Hugging Face]([https://huggingface.co/](https://huggingface.co/)
-8. Lots and lots of Python
-9. Deployment on OpenShift or something similar
 
-Could potentially even create a website --> Generate your own dog rating with NLP
+ - Training data: Images from
+   [WeRateDogs](https://twitter.com/dog_rates)
+   5. Use the Twitter API to pull down data
+   6. Discussion of deep learning + neural nets
+   7. Transfer learning
+   8. [Hugging Face](https://huggingface.co)
+   9. Lots and lots of Python
+   10. Deployment on OpenShift or something similar
+
+Could potentially even create a website --> Generate your own dog rating with NLP, partner up?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MTA3NzM0XX0=
+eyJoaXN0b3J5IjpbLTEwNzI0OTg2NDRdfQ==
 -->
