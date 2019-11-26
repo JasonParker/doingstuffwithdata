@@ -11,7 +11,7 @@
    [WeRateDogs](https://twitter.com/dog_rates)
 -  Use the Twitter API to pull down data
 	- Python `requests` library
-	- Insomnia
+	- [Insomnia](https://insomnia.rest/) REST client -> how to use a REST client to test the performance/output of an API
 - Discussion of deep learning + neural nets
 - Transfer learning
 - [Hugging Face](https://huggingface.co)
@@ -20,5 +20,5 @@
 
 Could potentially even create a website --> Generate your own dog rating with NLP, partner up?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEwNDY0NjNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTY2MTAxOThdfQ==
 -->
