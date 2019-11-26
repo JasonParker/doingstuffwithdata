@@ -2,7 +2,7 @@
 
 The purpose of this site is pretty straightforward: to help you do stuff with data.
 
-As te
+Data is quickly becoming a ke
 
 # Files
 
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5OTU5MzAyXX0=
+eyJoaXN0b3J5IjpbLTU4NzY5MDM0Nl19
 -->
