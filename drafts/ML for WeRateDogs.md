@@ -7,17 +7,18 @@
  - Maybe [Matt](https://twitter.com/dogfather) becomes my friend.
 
 **What would it take**: 
-
  - Training data: Images from
    [WeRateDogs](https://twitter.com/dog_rates)
-   5. Use the Twitter API to pull down data
-   6. Discussion of deep learning + neural nets
-   7. Transfer learning
-   8. [Hugging Face](https://huggingface.co)
-   9. Lots and lots of Python
-   10. Deployment on OpenShift or something similar
+-  Use the Twitter API to pull down data
+	- Python `requests` library
+	- Insomnia
+- Discussion of deep learning + neural nets
+- Transfer learning
+- [Hugging Face](https://huggingface.co)
+- Lots and lots of Python
+- Deployment on OpenShift or something similar
 
 Could potentially even create a website --> Generate your own dog rating with NLP, partner up?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI0OTg2NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzNTEwNDY0NjNdfQ==
 -->
